@@ -8,7 +8,6 @@ import ReactFlow, {
   Background,
   MarkerType,
   type Connection,
-  type Edge,
   useReactFlow,
 } from 'reactflow';
 import 'reactflow/dist/style.css';
